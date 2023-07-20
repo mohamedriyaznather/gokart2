@@ -1,0 +1,2507 @@
+html{
+  scroll-behavior: smooth;
+  overflow: scroll;
+}
+*{
+  margin: 0;
+  padding: 0;
+  
+}
+body{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+height: 100%;
+padding: -5%;
+overflow-x: hidden;
+zoom: 50%;
+
+  
+}
+
+  
+  
+ 
+
+.go-kart-pro-go-kart-pro {
+  width: 1400px;
+  height: 10259px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(2, 2, 2, 1);
+
+}
+.go-kart-pro-ellipse1 {
+  top: 580px;
+  left: 995px;
+  width: 900px;
+  height: 900px;
+  position: absolute;
+}
+.go-kart-pro-segwaylogonewwhite1 {
+  top: 109px;
+  left: 160px;
+  width: 308px;
+  height: 94px;
+  position: absolute;
+}
+.go-kart-pro-text{
+  top: 125px;
+  left: 1340px;
+  color: rgb(255, 255, 255);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Jost;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+  cursor: pointer;
+ 
+}
+.go-kart-pro-text::after {
+content: '';
+width: 0;
+height: 3px;
+background-color: #8cdf02;
+margin: auto;
+display: block;
+transition: 0.3s;
+}
+.go-kart-pro-text:hover::after{
+  width: 70%;
+  transition: width 0.3s linear;
+  margin-top: 8px;
+  transform: translateY(-7px);
+
+}
+.go-kart-pro-text:hover{
+  color: #8cdf02;
+  
+}
+
+
+.go-kart-pro-text032 {
+  top: 125px;
+  left: 1590px;
+  color: rgb(255, 255, 255);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Jost;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+  cursor: pointer;
+}
+.go-kart-pro-text032::after {
+  content: '';
+  width: 0;
+  height: 3px;
+  background-color: #8cdf02;
+  margin: auto;
+  display: block;
+  transition: 0.3s;
+  }
+  .go-kart-pro-text032:hover::after{
+    width: 70%;
+    transition: width 0.3s linear;
+    margin-top: 8px;
+    transform: translateY(-7px);
+  }
+  .go-kart-pro-text032:hover{
+    color: #8cdf02;
+  }
+.go-kart-pro-text033 {
+  top: 125px;
+  left: 1850px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Jost;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+  cursor: pointer;
+}
+.go-kart-pro-text033::after {
+  content: '';
+  width: 0;
+  height: 3px;
+  background-color: #8cdf02;
+  margin: auto;
+  display: block;
+  transition: 0.3s;
+  }
+  .go-kart-pro-text033:hover::after{
+    width: 70%;
+    transition: width 0.3s linear;
+    margin-top: 8px;
+    transform: translateY(-7px);
+  }
+  .go-kart-pro-text033:hover{
+    color: #8cdf02;
+  }
+.go-kart-pro-text035 {
+  top: 125px;
+  left: 2100px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Jost;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+  cursor: pointer;
+}
+.go-kart-pro-text035::after {
+  content: '';
+  width: 0;
+  height: 3px;
+  background-color: #8cdf02;
+  margin: auto;
+  display: block;
+  transition: 0.3s;
+  }
+  .go-kart-pro-text035:hover::after{
+    width: 70%;
+    transition: width 0.3s linear;
+    margin-top: 8px;
+    transform: translateY(-7px);
+  }
+  .go-kart-pro-text035:hover{
+    color: #8cdf02;
+  }
+.go-kart-pro-text037 {
+  top: 125px;
+  left: 2310px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Jost;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+  cursor: pointer;
+}
+.go-kart-pro-text037::after {
+  content: '';
+  width: 0;
+  height: 3px;
+  background-color: #8cdf02;
+  margin: auto;
+  display: block;
+  transition: 0.3s;
+  }
+  .go-kart-pro-text037:hover::after{
+    width: 70%;
+    transition: width 0.3s linear;
+    margin-top: 8px;
+    transform: translateY(-7px);
+  }
+  .go-kart-pro-text037:hover{
+    color: #8cdf02;
+  }
+.go-kart-pro-text039 {
+  top: 125px;
+  left: 2510px;
+  color: rgb(255, 255, 255);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Jost;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+  cursor: pointer;
+}
+.go-kart-pro-text039::after {
+  content: '';
+  width: 0;
+  height: 3px;
+  background-color: #8cdf02;
+  margin: auto;
+  display: block;
+  transition: 0.3s;
+  }
+  .go-kart-pro-text039:hover::after{
+    width: 70%;
+    transition: width 0.3s linear;
+    margin-top: 8px;
+    transform: translateY(-7px);
+  }
+  .go-kart-pro-text039:hover{
+    color: #8cdf02;
+  }
+.go-kart-pro-text001 {
+  top: 367px;
+  left: 953px;
+  color: #eae2e2;
+  height: auto;
+  position: absolute;
+  font-size: 240px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Raleway;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.go-kart-pro-text002{
+  top: 490px;
+  left: 1180px;
+  background: linear-gradient(to right,  #8d8c8c,   #3c4934);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Raleway;
+  
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+  letter-spacing: 0.5em;
+  font-weight: 900;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.go-kart-pro-text004 {
+  top: 1388px;
+  left: 138px;
+  color: rgba(255, 255, 255, 0.10000000149011612);
+  height: auto;
+  position: absolute;
+  font-size: 350px;
+  font-style: italic;
+  text-align: left;
+  font-family: Raleway;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.go-kart-pro-text009 {
+  top: 3832px;
+  left: 190px;
+  color: rgba(255, 255, 255, 0.10000000149011612);
+  height: auto;
+  position: absolute;
+  font-size: 300px;
+  font-style: italic;
+  text-align: left;
+  font-family: Raleway;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.go-kart-pro-text014 {
+  top: 5650px;
+  left: 1568px;
+  color: rgba(255, 255, 255, 0.10000000149011612);
+  height: auto;
+  position: absolute;
+  font-size: 300px;
+  font-style: italic;
+  text-align: right;
+  font-family: Raleway;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.go-kart-pro-group001{
+  top: 933px;
+  left: 180px;
+  height: 234px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.lin5-alt{
+  top: 850px;
+  left: 194px;
+  height: 234px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.go-kart-pro-text019 {
+  
+ top: auto;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Raleway;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+  writing-mode: vertical-rl;
+  text-orientation: sideways-left;
+  transform: rotate(180deg);
+  
+}
+.line5{
+  width: 1px; /* Adjust the width as needed */
+  height: 70px; /* Adjust the height as needed */
+  background-color:rgba(255, 255, 255, 0.5); /* Adjust the color as needed */
+  align-items: center;
+  
+  }
+.go-kart-pro-group000{
+  top: 1400px;
+left: 176px;
+  height: 234px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  
+}
+.lin4-alt{
+  top: 1715px;
+  left: 190px;
+  height: 234px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+
+.go-kart-pro-text020 {
+
+top: 400px;
+
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Raleway;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+  writing-mode: vertical-rl;
+  text-orientation: sideways-left;
+  transform: rotate(180deg);
+  
+}
+.line4{
+width: 1px; /* Adjust the width as needed */
+height: 70px; /* Adjust the height as needed */
+background-color:rgba(255, 255, 255, 0.5); /* Adjust the color as needed */
+align-items: center;
+
+}
+.go-kart-pro-text021 {
+  top: 2170px;
+  right: 310px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Raleway;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+  letter-spacing: 4px;
+  line-height: 1;
+}
+.go-kart-pro-text022{
+  top: 60px;
+  left: 1px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Raleway;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+  letter-spacing: 4px;
+  line-height: 1;
+}
+.go-kart-pro-text025 {
+  top: 6202px;
+  left: 950px;
+  color: rgba(255, 255, 255, 1);
+  width: 1023px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Raleway;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.loginbox3{
+  top: 126px;
+  left: 740px;
+  color: rgba(255, 255, 255, 0.28999999165534973);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Jost;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+
+}
+.loginbox3 input[type="search"]
+{
+    border: none;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+    background: transparent;
+    outline: none;
+    height: 40px;
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 30px;
+}
+.loginbox3 .fa.fa-search {
+  color: rgba(255, 255, 255, 1); /* Change the color to your desired color */
+}
+
+<!----menu--->
+
+
+
+.go-kart-pro-line1input {
+  top: 183px;
+  left: 720px;
+  width: 264px;
+  height: 1px;
+  position: absolute;
+}
+.go-kart-pro-line2 {
+  top: 736px;
+  left: 136px;
+  width: 61px;
+  height: 1px;
+  position: absolute;
+}
+.go-kart-pro-group15 {
+  top: 1744px;
+  left: 107px;
+  width: 26px;
+  height: 145px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.go-kart-pro-text040 {
+  top: 37px;
+  left: -8px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Raleway;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.go-kart-pro-line5 {
+  top: 0px;
+  left: 16px;
+  width: 61px;
+  height: 1px;
+  position: absolute;
+}
+.go-kart-pro-group16 {
+  top: 4487px;
+  left: 400px;
+  width: 26px;
+  height: 234px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+
+ 
+}
+.lin3-alt{ 
+  top: 4700px;
+  left: 183px;
+  width: 26px;
+  height: 234px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.go-kart-pro-text042 {
+  top: 300px;
+ right: 230px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Raleway;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+  white-space: nowrap; 
+  writing-mode: vertical-rl;
+  text-orientation: sideways-left;
+  transform: rotate(180deg);
+ 
+}
+.line3{
+  width: 1px; /* Adjust the width as needed */
+  height: 70px; /* Adjust the height as needed */
+  background-color:rgba(255, 255, 255, 0.5); /* Adjust the color as needed */
+  
+  align-items: center;
+}
+.container {
+  left: 400px;
+  top: 4447px;
+  border-left: 1px solid #fff;
+  height: 100px;
+  direction: rtl;
+ 
+}
+.go-kart-pro-line51 {
+  top: 0px;
+  left: 16px;
+  width: 61px;
+  height: 1px;
+  position: absolute;
+}
+.go-kart-pro-group18 {
+  top: 6854px;
+  left: 114px;
+  width: 26px;
+  height: 196px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.lin2-alt{
+  top: 6667px;
+  left: 176px;
+  width: 26px;
+  height: 196px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.go-kart-pro-text044 {
+  top: -100px;
+  color: rgba(255, 255, 255, 1);
+  right: -50px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Raleway;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+  writing-mode: vertical-rl;
+  text-orientation: sideways-left;
+  transform: rotate(180deg);
+}
+.line2{
+  width: 1px; /* Adjust the width as needed */
+  height: 70px; /* Adjust the height as needed */
+  background-color:rgba(255, 255, 255, 0.5); /* Adjust the color as needed */
+  
+  align-items: center;
+}
+.go-kart-pro-line52 {
+  top: 0px;
+  left: 16px;
+  width: 61px;
+  height: 1px;
+  position: absolute;
+}
+.go-kart-pro-group19 {
+  top: 7450px;
+  left: 114px;
+  width: 26px;
+  height: 199px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.lin1-alt{
+  top: 7560px;
+  left: 167px;
+  width: 26px;
+  height: 199px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.go-kart-pro-text046 {
+  top: 199px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Raleway;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  right: -40px;
+  writing-mode: vertical-rl;
+  text-orientation: sideways-left;
+  transform: rotate(180deg);
+
+}
+.line1 {
+  width: 1px; /* Adjust the width as needed */
+  height: 70px; /* Adjust the height as needed */
+  background-color:rgba(255, 255, 255, 0.5); /* Adjust the color as needed */
+  
+  align-items: center;
+  
+}
+.go-kart-pro-line53 {
+  top: 0px;
+  left: 16px;
+  width: 61px;
+  height: 1px;
+  position: absolute;
+}
+.go-kart-pro-line3 {
+  top: 240px;
+  left: 2666px;
+  width: 8098px;
+  height: 1px;
+  position: absolute;
+}
+.go-kart-pro-line4 {
+  top: 255px;
+  left: 2664px;
+  width: 242px;
+  height: 1px;
+  position: absolute;
+}
+.go-kart-pro-gkpp81500x1500transformed1 {
+  top: 614px;
+  left: 828px;
+  width: 1184px;
+  height: 721px;
+  position: absolute;
+}
+.go-kart-pro-group6 {
+  top: 1680px;
+  left: 730px;
+  width: 377.9954833984375px;
+  height: 250.37469482421875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.go-kart-pro-maskgroup {
+  top: -12px;
+  left: 0px;
+  width: 377.9954833984375px;
+  height: 250.37469482421875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+.go-kart-pro-gkpb4211 {
+  top: -12px;
+  left: -11px;
+  width: 416px;
+  height: 284px;
+  position: absolute;
+  border-radius: 20px;
+}
+.go-kart-pro-group7 {
+  top: 1680px;
+  left: 1216px;
+  width: 377.9954833984375px;
+  height: 250.37469482421875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.go-kart-pro-maskgroup1 {
+  top: -8px;
+  right: -20px;
+  width: 377.9954833984375px;
+  height: 250.37469482421875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+.go-kart-pro-gkpb4111 {
+  top: -12px;
+  left: -11px;
+  width: 416px;
+  height: 284px;
+  position: absolute;
+  border-radius: 20px;
+}
+.go-kart-pro-group8 {
+  top: 1675px;
+  left: 1676px;
+  width: 377.9954833984375px;
+  height: 250.37469482421875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.go-kart-pro-maskgroup2 {
+  right: -68px;
+  width: 377.9954833984375px;
+  bottom: 0px;
+  height: 250.37469482421875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+.go-kart-pro-gkpb42111 {
+  top: -12px;
+  left: -11px;
+  width: 416px;
+  height: 284px;
+  position: absolute;
+  border-radius: 20px;
+}
+.go-kart-pro-text048 {
+  top: 2482px;
+  left: 982px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 150px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Raleway;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.go-kart-pro-text053 {
+  top: 6036px;
+  left: 1014px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 96px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Raleway;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.go-kart-pro-text055 {
+  top: 7458px;
+  left: 356px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 100px;
+  font-style: italic;
+  text-align: left;
+  font-family: Raleway;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.go-kart-pro-group9 {
+  top: 3010px;
+  left: 1762px;
+  width: 327px;
+  height: 28px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.go-kart-pro-line9{
+
+  left: 1762px;
+}
+.line9 {
+  border-bottom: 3px solid #fff;
+  width: 35px; /* Adjust the width as needed */
+  height: 28px;
+  top:-60px;
+  position: relative;
+left: 80px;
+
+ }
+
+.go-kart-pro-text057 {
+  left: 40px;
+  color: rgba(123, 192, 48, 1);
+  width: 287px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Raleway;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.go-kart-pro-line54 {
+  top: 14px;
+  left: 0px;
+  width: 28px;
+  height: 1px;
+  position: absolute;
+}
+.go-kart-pro-group10 {
+  top: 3240px;
+  left: 1762px;
+  width: 327px;
+  height: 28px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+
+.line10 {
+  border-bottom: 3px solid #fff;
+  width: 35px; /* Adjust the width as needed */
+  height: 28px;
+  top: -15px;
+  position: relative;
+left: -35px;
+
+ }
+.go-kart-pro-text062 {
+  left: 40px;
+  color: rgba(123, 192, 48, 1);
+  width: 287px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Raleway;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.go-kart-pro-line55 {
+  top: 14px;
+  left: 0px;
+  width: 28px;
+  height: 1px;
+  position: absolute;
+}
+.go-kart-pro-text064 {
+  top: 3060px;
+  left: 1800px;
+  color: rgba(255, 255, 255, 0.800000011920929);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Raleway;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+  line-height: 1.5;
+}
+.go-kart-pro-text069 {
+  top: 3290px;
+  left: 1800px;
+  color: rgba(255, 255, 255, 0.800000011920929);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Raleway;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+  line-height: 1.5;
+}
+.go-kart-pro-text074 {
+  top: 7870px;
+  line-height: 2;
+  left: 376px;
+  color: rgba(255, 255, 255, 0.800000011920929);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Raleway;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+  letter-spacing: 3px;
+
+}
+.go-kart-pro-text079 {
+  top: 8014px;
+  left: 1316px;
+  color: rgba(255, 255, 255, 0.800000011920929);
+  height: auto;
+  opacity: 0.29;
+  position: absolute;
+  font-size: 24px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Raleway;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.go-kart-pro-text081 {
+  top: 8300px;
+  left: 1303px;
+  color: rgba(255, 255, 255, 0.800000011920929);
+  height: auto;
+  opacity: 0.29;
+  position: absolute;
+  font-size: 24px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Raleway;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.go-kart-pro-group11button {
+  top: 3280px;
+  left: 1798px;
+  width: 429px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.go-kart-pro-text083 {
+  top: 170px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Raleway;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+  cursor: pointer;
+  left: 7px;
+}
+.icon-arrow2{
+  width: 100px;
+  height: 4px;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 1);;
+  position: relative;
+  top: 190px;
+  left:250px ;
+  cursor: pointer;
+
+}
+.icon-arrow2:before{
+  content: "";
+  display: inline-block;
+  width: 25px;
+  height: 4px;
+  background-color:  rgba(255, 255, 255, 1);;
+  transform: rotate(-45deg);
+  position: absolute;
+  right: -3px;
+  bottom: -8px;
+  cursor: pointer;
+}
+.icon-arrow2:after{
+  content: "";
+  display: inline-block;
+  width: 25px;
+  height: 4px;
+  background-color: #fff;
+  transform: rotate(45deg);
+  position: absolute;
+  right: -3px;
+  bottom: 8px;
+}
+
+.go-kart-pro-iconly-light-arrow-right {
+  top: 0px;
+  left: 379px;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.go-kart-pro-iconly-light-arrow-right1 {
+  top: 0px;
+  left: 0px;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.go-kart-pro-arrow-right {
+  top: 36.97978973388672px;
+  left: -47.916664123535156px;
+  width: 25.102083206176758px;
+  height: 89.06291198730469px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.go-kart-pro-stroke1 {
+  top: -9.896341323852539px;
+  left: 0px;
+  width: 6px;
+  height: 85px;
+  position: absolute;
+}
+.go-kart-pro-stroke3 {
+  top: 7.105427357601002e-15px;
+  left: 76.45874786376953px;
+  width: 25px;
+  height: 13px;
+  position: absolute;
+}
+.go-kart-pro-group20button {
+  top: 8368px;
+  left: 1303px;
+  width: 309px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.go-kart-pro-text085 {
+  left: 16px;
+  color: rgba(255, 255, 255, 1);
+  bottom: -77px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Raleway;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.go-kart-pro-iconly-light-arrow-right2 {
+  top: 0px;
+  left: 259px;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.go-kart-pro-iconly-light-arrow-right3 {
+  top: 0px;
+  left: 0px;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.go-kart-pro-arrow-right1 {
+  top: 36.97998046875px;
+  left: -45px;
+  width: 25.102083206176758px;
+  height: 76.14628601074219px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.go-kart-pro-stroke11 {
+  top: -9.97998046875px;
+  left: 0px;
+  width: 6px;
+  height: 73px;
+  position: absolute;
+}
+.go-kart-pro-stroke31 {
+  right: -4px;
+  width: 25px;
+  bottom: -1px;
+  height: 13px;
+  position: absolute;
+}
+.go-kart-pro-group14 {
+  top: 3970px;
+  left: 430px;
+  width: 1323px;
+  height: 1011px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.go-kart-pro-text087 {
+  top: 520px;
+  right: 450px;
+  color: rgba(255, 255, 255, 0.5);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Raleway;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+  line-height: 1.7;
+}
+.go-kart-pro-text096 {
+  top: 450px;
+  color: rgba(255, 255, 255, 1);
+  right: 400px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Raleway;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+ 
+}
+.go-kart-pro-group13 {
+  top: 820px;
+  left: -110px;
+  width: 482px;
+  height: 193px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.go-kart-pro-text098 {
+  top: 69px;
+  color: rgba(255, 255, 255, 0.5);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Raleway;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+  line-height: 1.7;
+}
+.go-kart-pro-text105 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Raleway;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+
+}
+.go-kart-pro-group12 {
+  top: 1100px;
+  left: 820px;
+  width: 469px;
+  height: 230px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  
+}
+.go-kart-pro-text107 {
+  left: -350px;
+  color: rgba(255, 255, 255, 0.5);
+  bottom: -11px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Raleway;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+  line-height: 1.7;
+}
+.go-kart-pro-text114 {
+  top: 45px;
+  left: -350px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Raleway;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.go-kart-pro-maskgroup3 {
+  top: 390px;
+  left: -130px;
+  width: 403px;
+  height: 277px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+   
+}
+.go-kart-pro-gkpb721 {
+  top: -1px;
+  left: -52px;
+  width: 515px;
+  height: 337px;
+  position: absolute;
+}
+.go-kart-pro-maskgroup4 {
+  top: 820px;
+  right: 400px;
+  width: 235px;
+  height: 141px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+.go-kart-pro-gkpb8311 {
+  top: -81px;
+  left: -245px;
+  width: 515px;
+  height: 337px;
+  position: absolute;
+}
+.go-kart-pro-maskgroup5 {
+  top: 1100px;
+  left: -130px;
+  width: 455px;
+  height: 305px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1); 
+}
+
+.go-kart-pro-gkpus21 {
+  top: -8px;
+  left: -43px;
+  width: 515px;
+  height: 337px;
+  position: absolute;
+}
+.go-kart-pro-group5 {
+  top: 2790px;
+  right: 1300px;
+  width: 1809.2130126953125px;
+  height: 977px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  animation: scrollImage 50s linear ;
+ 
+}
+@keyframes scrollImage {
+  0% {
+    transform: translateX(-40%);
+  }
+  100% {
+    transform: translateX(10%);
+  }
+}
+.go-kart-pro-gkptrans1 {
+  left: 400px;
+  width: 1644px;
+  bottom: 0px;
+  height: 936px;
+  position: absolute;
+}
+.go-kart-pro-group2 {
+  top: 0px;
+  left: 1220.12548828125px;
+  width: 107.73004913330078px;
+  height: 107.73004913330078px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.go-kart-pro-ellipse2 {
+  top: 0px;
+  left: 0px;
+  width: 108px;
+  height: 108px;
+  opacity: 0.90;
+  position: absolute;
+}
+.go-kart-pro-ellipse4 {
+  top: 19.587318420410156px;
+  left: 19.587305068969727px;
+  width: 69px;
+  height: 69px;
+  opacity: 0.90;
+  position: absolute;
+}
+.go-kart-pro-ellipse3 {
+  top: 34.277713775634766px;
+  left: 34.27802276611328px;
+  width: 39px;
+  height: 39px;
+  position: absolute;
+}
+.go-kart-pro-group3 {
+  top: 295.3289794921875px;
+  left: 200.60079956054688px;
+  width: 107.73004913330078px;
+  height: 107.73004913330078px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.go-kart-pro-ellipse21 {
+  top: 0px;
+  left: 0px;
+  width: 108px;
+  height: 108px;
+  opacity: 0.60;
+  position: absolute;
+}
+.go-kart-pro-ellipse41 {
+  top: 19.587203979492188px;
+  left: 19.587247848510742px;
+  width: 69px;
+  height: 69px;
+  opacity: 0.90;
+  position: absolute;
+}
+.go-kart-pro-ellipse31 {
+  top: 34.277687072753906px;
+  left: 34.2777099609375px;
+  width: 39px;
+  height: 39px;
+  opacity: 0.60;
+  position: absolute;
+}
+.go-kart-pro-group4 {
+  top: 664.6730346679688px;
+  left: 1701.48291015625px;
+  width: 107.73004913330078px;
+  height: 107.73004913330078px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.go-kart-pro-ellipse22 {
+  top: 0px;
+  left: 0px;
+  width: 108px;
+  height: 108px;
+  opacity: 0.60;
+  position: absolute;
+}
+.go-kart-pro-ellipse42 {
+  top: 19.587467193603516px;
+  left: 19.58728790283203px;
+  width: 69px;
+  height: 69px;
+  opacity: 0.80;
+  position: absolute;
+}
+.go-kart-pro-ellipse32 {
+  top: 34.27775955200195px;
+  left: 34.277835845947266px;
+  width: 39px;
+  height: 39px;
+  position: absolute;
+}
+.go-kart-pro-iconly-light-search {
+  top: 129px;
+  left: 694.0582885742188px;
+  width: 25px;
+  height: 23.99454689025879px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.go-kart-pro-search {
+  top: 2.7774009704589844px;
+  left: 2.914705991744995px;
+  width: 19.687469482421875px;
+  height: 19.217599868774414px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+
+.go-kart-pro-group17 {
+  top: 6361px;
+  left: 590px;
+  width: 1526px;
+  height: 918px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  
+}
+.go-kart-pro-mode4 {
+  top: 0;
+  left: 1220px;
+  width: 205px;
+  height: 614px;
+  position: absolute;
+  align-items: center;
+
+}
+
+.go-kart-pro-mode1 {
+  top: 160px;
+  left: 300px;
+  width: 205px;
+  height: 614px;
+  position: absolute;
+  align-items: center;
+}
+
+.go-kart-pro-mode2 {
+  top: 110px;
+  left: 610px;
+  width: 205px;
+  height: 614px;
+  position: absolute;
+  align-items: center;
+}
+.go-kart-pro-mode3 {
+  top: 50px;
+  left: 912px;
+  width: 205px;
+  height: 614px;
+  position: absolute;
+  align-items: center;
+}
+.go-kart-pro-rectangle10 {
+  top: 440px;
+  left: 250px;
+  width: 1212px;
+  height: 478px;
+  position: absolute;
+}
+.go-kart-pro-text116 {
+  top: 722px;
+  left: 300px;
+  color: rgba(2, 137, 157, 1);
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Raleway;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.go-kart-pro-text117 {
+  font-weight: 600;
+}
+.go-kart-pro-text118 {
+  color: rgba(2, 137, 157, 1);
+}
+.go-kart-pro-text123 {
+  top: 722px;
+  left: 610px;
+  color: rgba(3, 126, 59, 1);
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Raleway;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.go-kart-pro-text124 {
+  font-weight: 600;
+}
+.go-kart-pro-text125 {
+  color: rgba(3, 126, 59, 1);
+}
+.go-kart-pro-text130 {
+  top: 722px;
+  left: 910px;
+  color: rgba(197, 107, 3, 1);
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Raleway;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.go-kart-pro-text131 {
+  font-weight: 600;
+}
+.go-kart-pro-text132 {
+  color: rgba(197, 107, 3, 1);
+}
+.go-kart-pro-text137 {
+  top: 722px;
+  left: 1220px;
+  color: rgba(153, 30, 19, 1);
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Raleway;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.go-kart-pro-text138 {
+  font-weight: 600;
+}
+.go-kart-pro-text139 {
+  color: rgba(153, 30, 19, 1);
+}
+.go-kart-pro-big-img {
+  top: 3800px;
+  right: -860px;
+  width: 2618px;
+  height: 3600px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+
+.go-kart-pro-mobilityscooterssegwayninebotelectricgokartprodrif {
+  top: -352px;
+  left: 490px;
+  width: 2500px;
+  height: 2500px;
+  position: absolute;
+}
+
+.loginbox{
+  width: 1320px;
+  height: 700px;
+background:transparent;
+color: rgba(255, 255, 255, 1);
+top: 8102px;
+left: 2100px;
+position: absolute;
+transform: translate(-50%,-50%);
+font-style:SemiBold;
+font-family:Raleway ;
+text-decoration: none;
+text-align: left;
+font-weight: 600;
+
+
+
+}
+.loginbox input[type="text"],input[type="review"]
+{
+    border: none;
+    border-bottom: 1px solid  ;
+    background: transparent;
+    outline: none;
+    height: auto;
+   color: rgba(255, 255, 255, 0.5);
+    font-size: 24px;
+    font-style:SemiBold;
+    font-family:Raleway ;
+    text-decoration: none;
+    text-align: left;
+    font-weight: 600;
+    width: 70%;
+    line-height: 70px;
+    
+    
+}
+
+
+.loginbox p{
+  margin: 0;
+  padding: 0;
+  font-weight: 600px;
+  font-size: 32px;
+  font-style: SemiBold;
+  font-family:Raleway ;
+    text-decoration: none;
+    text-align: left;
+    font-weight: 600;
+    color: rgba(255, 255, 255, 1);
+    line-height: 50px;
+
+}
+button{
+  width: 138px;
+  height: 40px;
+  border:none;
+  outline: none;
+  background:transparent;
+  color: rgba(255, 255, 255, 1);
+  font-size: 32px;
+ top: 950px;
+ bottom: 450px;
+  font-family: Raleway;
+  font-style: SemiBold;
+  font-weight: 600;
+  cursor: pointer;
+  
+}
+.button.fa-thin .fa-arrow-right-long{
+
+  color: rgba(255, 255, 255, 1);
+
+}
+.icon-arrow{
+  width: 100px;
+  height: 4px;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 1);;
+  position: relative;
+  top: -25px;
+  left:210px ;
+  cursor: pointer;
+
+}
+.icon-arrow:before{
+  content: "";
+  display: inline-block;
+  width: 25px;
+  height: 4px;
+  background-color:  rgba(255, 255, 255, 1);;
+  transform: rotate(-45deg);
+  position: absolute;
+  right: -3px;
+  bottom: -8px;
+  cursor: pointer;
+}
+.icon-arrow:after{
+  content: "";
+  display: inline-block;
+  width: 25px;
+  height: 4px;
+  background-color: #fff;
+  transform: rotate(45deg);
+  position: absolute;
+  right: -3px;
+  bottom: 8px;
+}
+.go-kart-pro-pd1 {
+  top: 8731px;
+  left: 2350px;
+  width: 118px;
+  height: 124px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.go-kart-pro-layer1 {
+  top: -0.0021930376533418894px;
+  left: 0px;
+  width: 118.00035858154297px;
+  height: 123.99650573730469px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.go-kart-pro-group {
+  top: 0px;
+  left: 0px;
+  width: 118.00035858154297px;
+  height: 123.99650573730469px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.go-kart-pro-vector {
+  top: 0.15603892505168915px;
+  left: 43.27008819580078px;
+  width: 6px;
+  height: 124px;
+  position: absolute;
+}
+.go-kart-pro-vector1 {
+  top: 86.26107025146484px;
+  left: 54.798683166503906px;
+  width: 63px;
+  height: 31px;
+  position: absolute;
+}
+.go-kart-pro-vector2 {
+  top: 55.072994232177734px;
+  left: 0px;
+  width: 36px;
+  height: 67px;
+  position: absolute;
+}
+.go-kart-pro-vector3 {
+  top: 4.613136955766706e-11px;
+  left: 10.077571868896484px;
+  width: 24px;
+  height: 25px;
+  position: absolute;
+}
+.go-kart-pro-vector4 {
+  top: 74.45954132080078px;
+  left: 19.396934509277344px;
+  width: 17px;
+  height: 28px;
+  position: absolute;
+}
+.go-kart-pro-su1 {
+  top: 8725px;
+  left: 1290px;
+  width: 127px;
+  height: 136px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.go-kart-pro-layer11 {
+  top: 0px;
+  left: -0.02006871998310089px;
+  width: 127.02822875976562px;
+  height: 136.01077270507812px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.go-kart-pro-vector5 {
+  top: 0px;
+  left: 0px;
+  width: 127px;
+  height: 136px;
+  position: absolute;
+}
+.go-kart-pro-sq1 {
+  top: 8701px;
+  left: 308px;
+  width: 170px;
+  height: 170px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.go-kart-pro-layer12 {
+  top: 19.690248489379883px;
+  left: 26.79709815979004px;
+  width: 117.26331329345703px;
+  height: 133.189697265625px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.go-kart-pro-group1 {
+  top: 0px;
+  left: 0px;
+  width: 117.26331329345703px;
+  height: 133.189697265625px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.go-kart-pro-vector6 {
+  top: 0px;
+  left: 0px;
+  width: 117px;
+  height: 133px;
+  position: absolute;
+}
+.go-kart-pro-vector7 {
+  top: 47.937843322753906px;
+  left: 36.783538818359375px;
+  width: 300px;
+  height: 200px;
+  position: absolute;
+}
+.go-kart-pro-rectangle12 {
+  top: 9000px;
+  left: 0px;
+  width: 2800px;
+  height: 1290px;
+  position: absolute;
+
+}
+.go-kart-pro-group31 {
+  left: 319px;
+  width: 3200px;
+  bottom: 450px;
+  height: 563px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.go-kart-pro-group22 {
+  left: -64px;
+  width: 1238px;
+  bottom: -8px;
+  height: 583px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.go-kart-pro-text148 {
+  color: rgba(255, 255, 255, 0.5);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;    
+  text-align: left;
+  font-family: Raleway;
+  
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+  line-height: 2.5;
+}
+.go-kart-pro-text149 {
+  font-weight: 700;
+  font-style:SemiBold;
+  color: rgba(255, 255, 255, 1);
+  line-height: 2.5;
+}
+.go-kart-pro-text150 {
+  font-style:SemiBold;
+}
+.go-kart-pro-text164 {
+  left: 1069px;
+  color: rgba(255, 255, 255, 0.5);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+
+  text-align: left;
+  font-family: Raleway;
+  
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+  line-height: 2.5;
+}
+.go-kart-pro-text165 {
+  
+  font-weight: 700;
+  font-style:SemiBold;
+  color: rgba(255, 255, 255, 1);
+  line-height: 2.5;
+}
+.go-kart-pro-group21 {
+  top: 0px;
+  left: 483px;
+  width: 227px;
+  height: 583px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.go-kart-pro-text189 {
+  color: rgba(255, 255, 255, 0.5);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+ 
+  text-align: left;
+  font-family: Raleway;
+ 
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+  line-height: 2.5;
+}
+.go-kart-pro-text190 {
+  font-weight: 700;
+  font-style:SemiBold;
+  color: rgba(255, 255, 255, 1);
+  line-height: 2.5;
+}
+.go-kart-pro-text206 {
+  top: 390px;
+  color: rgba(255, 255, 255, 0.5);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Raleway;
+ 
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+  line-height: 2.5;
+}
+.go-kart-pro-text207 {
+  font-weight: 700;
+   font-style:SemiBold;
+  color: rgba(255, 255, 255, 1);
+  line-height: 2.5;
+}
+.go-kart-pro-group30 {
+  top: 0px;
+  left: 1586px;
+  width: 248px;
+  height: auto;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.go-kart-pro-text223 {
+  top: 0px;
+  color: rgba(255, 255, 255, 1);
+  left: 0px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Raleway;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+ 
+}
+.go-kart-pro-text225 {
+  top: 55px;
+  color: rgba(255, 255, 255, 0.5);
+ left: 0px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Raleway;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+ 
+}
+
+.loginbox1{
+  left: 0px;
+  color: rgba(255, 255, 255, 0.5);
+  right: 1600px;
+  bottom: -130px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Raleway;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+ 
+}
+
+.loginbox1 input[type="email"]
+{
+  
+  
+    border: none;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+    background: transparent;
+    outline: none;
+    height: -140px;
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 16px;
+    line-height: 30px;
+    width: 240px;
+}
+.loginbox2{ 
+  left: 20px;
+  
+  right: 1600px;
+  bottom: -27px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Raleway;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+ }
+ .loginbox2 input[type="submit"]{
+  color: rgba(255, 255, 255, 1);
+   background-color: transparent;
+    right: -63px;
+    bottom: -45px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Raleway;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    cursor: pointer;
+    cursor: pointer color;
+}
+.loginbox2 a {
+  position: absolute;
+  top: 70px; /* Adjust the top value as per your preference */
+  right: -155px; /* Adjust the right value as per your preference */
+  font-stretch: normal;
+  white-space: nowrap;
+}
+.icon-arrow3{
+  width: 50px;
+  height: 4px;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 1);;
+  position: relative;
+  top: 33px;
+  left:120px ;
+  cursor: pointer;
+
+}
+.icon-arrow3:before{
+  content: "";
+  display: inline-block;
+  width: 20px;
+  height: 4px;
+  background-color:  rgba(255, 255, 255, 1);;
+  transform: rotate(-45deg);
+  position: absolute;
+  right: -8px;
+  bottom: -6px;
+  cursor: pointer;
+}
+.icon-arrow3:after{
+  content: "";
+  display: inline-block;
+  width: 20px;
+  height: 4px;
+  background-color: rgba(255, 255, 255, 1);
+  transform: rotate(45deg);
+  position: absolute;
+  right: -8px;
+  bottom: 6px;
+}
+
+
+.go-kart-pro-stroke12 {
+  top: 8.999876976013184px;
+  left: 0px;
+  width: 4px;
+  height: 46px;
+  position: absolute;
+}
+.go-kart-pro-stroke32 {
+  top: 14.999999046325684px;
+  left: 37.01100158691406px;
+  width: 15px;
+  height: 11px;
+  position: absolute;
+}
+
+.go-kart-pro-group32 {
+  left: 100px;
+  width: 1991.1483154296875px;
+  bottom: -380px;
+  height: 20.000118255615234px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.go-kart-pro-text233 {
+  color: rgba(255, 255, 255, 0.5);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Raleway;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+left: -150px;
+}
+.go-kart-pro-line9 {
+  top: 46px;
+  left: -150px;
+  width: 1200px;
+  height: 1px;
+  position: absolute;
+  align-items: flex;
+}
+
+
+.go-kart-pro-group29 {
+  top: 6.99981689453125px;
+  left: 1643.145751953125px;
+  width: 348.0025329589844px;
+  height: 19.000083923339844px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+
+
+.social-links {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+ 
+  }
+  
+  .social-links i.fa {
+    height: 40px;
+    width: 90px;
+    font-size: 40px;
+    line-height: 40px;
+    color: rgba(255, 255, 255, 0.5);
+    cursor: pointer;
+    transition: 0.5s;
+
+  
+  }
+  
+  .social-links i.fa:hover {
+    color: #8cdf02;
+    transform: translateY(-7px);
+  }
+
+
+
+
+
+
+
+.go-kart-pro-group28 {
+  top: 8714px;
+  left: 0px;
+  width: 2494px;
+  height: 398px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.go-kart-pro-rectangle11 {
+  top: 0px;
+  left: 0px;
+  width: 2800px;
+  height: 370px;
+  position: absolute;
+
+  
+}
+.go-kart-pro-group27 {
+  top: 71px;
+  left: 210px;
+  width: 2284px;
+  height: 257px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+
+.go-kart-pro-text235 {
+  top: 180px;
+  left: 115px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 28px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Raleway;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.go-kart-pro-text237 {
+  top: 180px;
+  left: 1004px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 28px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Raleway;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.go-kart-pro-text239 {
+  top: 180px;
+  left: 1973px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 28px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Raleway;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.go-kart-pro-group26 {
+  top: 0px;
+  left: 0px;
+  width: 2215px;
+  height: 200px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.go-kart-pro-prefooter3 {
+  top: 0px;
+  left: 2015px;
+  width: 150px;
+  height: 150px;
+  position: absolute;
+}
+.go-kart-pro-prefooter2150x150 {
+  top: 0px;
+  left: 1043px;
+  width: 150px;
+  height: 150px;
+  position: absolute;
+}
+.go-kart-pro-prefooter1 {
+  top: -8px;
+  left: 80px;
+  width: 150px;
+  height: 150px;
+  position: absolute;
+}
+.line {
+  border-top: 1px solid rgba(255, 255, 255, 0.5);;
+  width: 2095px;
+  margin-top: 980px;
+  margin-left: -50px;
+
+}
+
+
+@media(max-width: 2760px) {
+  .go-kart-pro-go-kart-pro {
+    width: 2760px;
+    height: 10291px;
+  }
+  .go-kart-pro-text001 {
+    color: rgb(234, 226, 226);
+    font-size: 96px;
+    font-family: Raleway;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration: none;
+  }
+  .go-kart-pro-text003 {
+    color: #8cdf02;
+  }
+  .go-kart-pro-text021 {
+    color: rgb(255, 255, 255);
+    font-size: 32px;
+    font-family: Raleway;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: none;
+  }
+}
+.container{
+  display: flex;
+}
+
+.main {
+  width: -850px;
+  height: -8px;
+  max-height: 250px;
+  background-color: #fff;
+  border: 1px solid red;
+  overflow-y: hidden;
+  flex: 1;
+  
+}
+
+/* Scrollbar */
+
+/* width */
+::-webkit-scrollbar {
+  width: 20px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background:#333033;
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+  border-left: 9px solid #020202;
+  border-right: 9px solid #020202;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.5);
+  background:#ffffff;
+  border-radius: 10px;
+  border-left: 4px solid #020202;
+  border-right: 4px solid #020202;
+}
